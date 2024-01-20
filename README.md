@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently a PhD student from Boston University.
+- 🌱 I’m currently conducting computational imaging research.
+- 📫 How to reach me: qilin@bu.edu
 <!--
 **Qilin617/Qilin617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
